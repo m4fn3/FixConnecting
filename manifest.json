@@ -1,0 +1,12 @@
+{
+  "name": "FixConnecting",
+  "version": "1.0.0",
+  "description": "Fix the annoying Connecting bug",
+  "authors": [
+    {
+      "name": "mafu",
+      "id": "519760564755365888"
+    }
+  ],
+  "color": "#0D324D"
+}
